@@ -2,3 +2,5 @@
 Console.WriteLine("Welcome to Bridgelabz !!!");
 
 Console.WriteLine("Hello team ...");
+
+Console.WriteLine("Day2 session Git");
