@@ -1,0 +1,15 @@
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\bin\Debug\net6.0\BasicIntro.exe
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\bin\Debug\net6.0\BasicIntro.deps.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\bin\Debug\net6.0\BasicIntro.runtimeconfig.json
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\bin\Debug\net6.0\BasicIntro.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\bin\Debug\net6.0\BasicIntro.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.csproj.AssemblyReference.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.AssemblyInfoInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.AssemblyInfo.cs
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.csproj.CoreCompileInputs.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\refint\BasicIntro.dll
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.pdb
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\BasicIntro.genruntimeconfig.cache
+C:\Murali Files\Files\Bridgelabz\Training\Projects B-161\BasicIntro\BasicIntro\obj\Debug\net6.0\ref\BasicIntro.dll
